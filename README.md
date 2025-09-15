@@ -1,21 +1,20 @@
-# GitHub Finder
+# 🔍 GitHub Finder
 
-A simple web app to search GitHub profiles and repositories using the GitHub API.  
+A simple web app to search GitHub profiles and repositories using the **GitHub API**.
 
 ## 🚀 Live Demo
+
 👉 [Click here to try GitHub Finder](https://sanjayveerappan.github.io/github-finder/)
 
-## Features
-- Search GitHub users by username
-- View user profile information
-- Explore user repositories
+## ✨ Features
 
-## Tech Stack
+- Search GitHub users by username
+- View user profile information (followers, bio, repos, etc.)
+- Explore repositories
+- Clean and responsive design
+
+## 🛠️ Tech Stack
+
 - HTML
 - CSS
-
-# GitHub Finder (your local content)
-
-
-# github-finder (GitHub remote content)
-
+- JavaScript
