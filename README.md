@@ -13,4 +13,9 @@ A simple web app to search GitHub profiles and repositories using the GitHub API
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript
+
+# GitHub Finder (your local content)
+
+
+# github-finder (GitHub remote content)
+
